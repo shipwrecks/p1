@@ -41,7 +41,7 @@
         <div class="header">
             <h1 class="brand-title">Teri Chu</h1>
             <h2 class="brand-tagline">Dynamic Web Apps Portfolio</h2>
-            <p><img alt="Teri&#x27;s avatar" width="200" src="img/common/teri_bw_avatar_sm.jpg"></p>
+            <p><img alt="Teri&#x27;s avatar" width="200" src="img/teri_bw_avatar_sm.jpg"></p>
             
         </div>
     </div>
