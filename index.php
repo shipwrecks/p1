@@ -63,7 +63,7 @@
                     <div class="post-description">
                         <h3>Project 2 Title</h3>
                         <p>
-                            View: [link] Github: [link]
+                            View: <a href="http://p2.nearsightedninja.me/">[link]</a> Github: <a href="https://github.com/shipwrecks/p2">[link]</a>
                         </p>
                         
                         <h3>Project 3 Title</h3>
